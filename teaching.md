@@ -1,5 +1,3 @@
----
-title: Teaching
-layout: home
----
+# Teaching
+
 
