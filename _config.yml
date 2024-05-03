@@ -8,22 +8,8 @@ search_enabled: false
 
 nav_enabled: true
 
----
-layout: default
-title: Research
-nav_order: 2
----
-
----
-layout: default
-title: Teaching
-nav_order: 3
----
-
-
----
-layout: default
-title: Personal
-nav_order: 4
----
-
+navigation: 
+ - {title: "Research", file: "/research.md"}
+ - {title: "Teaching", file: "/teaching.md"}
+ - {title: "Conferences", file: "/conferences.md"}
+ - {title: "Personal", file: "/personal.md"}
