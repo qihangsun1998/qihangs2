@@ -1,5 +1,4 @@
----
-title: Research
-layout: home
----
+# Research
+
+
 
