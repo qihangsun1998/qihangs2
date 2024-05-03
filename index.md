@@ -12,9 +12,7 @@ I completed my bachelor in Mathematics in 2019 at Xi'an Jiaotong University (XJT
 
 ----
 
-Here are my: [CV]("/Qihang Sun CV.pdf"){: .btn .mr-4 }
-[Research Statement]("/research Statement Qihang Sun.pdf"){: .btn .mr-4 }
-[Teaching Statement]("/Qihang Sun teaching statement.pdf"){: .btn }
+Here are my: [CV]{: .btn .mr-4 }  [Research Statement]{: .btn .mr-4 }  [Teaching Statement]{: .btn }
 
 
 email: qihangs2 at illinois dot edu
@@ -22,4 +20,6 @@ email: qihangs2 at illinois dot edu
 ----
 
 [Scott Ahlgren]: https://scottahlgren.web.illinois.edu/
-
+[CV]: https://github.com/qihangsun1998/qihangsun1998.github.io/blob/main/files/Qihang-Sun-CV.pdf
+[Research Statement]: https://github.com/qihangsun1998/qihangsun1998.github.io/blob/main/files/Qihang-Sun-research-statement.pdf
+[Teaching Statement]: https://github.com/qihangsun1998/qihangsun1998.github.io/blob/main/files/Qihang-Sun-teaching-statement.pdf
