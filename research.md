@@ -9,15 +9,15 @@ nav_order: 2
 
 My research has focused on the analytic properties of arithmetic functions, applying techniques from analytic number theory, automorphic forms and the spectral theory. 
 
-5. Vanishing properties of Kloosterman sums and Dyson's conjectures, in preparation. 
+[5] Vanishing properties of Kloosterman sums and Dyson's conjectures, in preparation. 
 
-4. Exact formulae for ranks of partitions, in preparation. 
+[4] Exact formulae for ranks of partitions, in preparation. 
 
-3. Uniform bounds for Kloosterman sums of half-integral weight, same-sign case, submitted. [arXiv] 
+[3] Uniform bounds for Kloosterman sums of half-integral weight, same-sign case, submitted. [arXiv] 
 
-2. Uniform bounds for Kloosterman sums of half-integral weight with applications, Forum Mathematicum, 2024, ahead of print. [arXiv] [journal]
+[2] Uniform bounds for Kloosterman sums of half-integral weight with applications, Forum Mathematicum, 2024, ahead of print. [arXiv] [journal]
 
-1. Effective estimates for traces of singular moduli (with O. González),  Research in Number Theory, vol. 10, no. 29 (2024). [arXiv] [journal]
+[1] Effective estimates for traces of singular moduli (with O. González),  Research in Number Theory, vol. 10, no. 29 (2024). [arXiv] [journal]
 
 
 
