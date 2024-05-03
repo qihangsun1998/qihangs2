@@ -12,14 +12,14 @@ I completed my bachelor in Mathematics in 2019 at Xi'an Jiaotong University (XJT
 
 ----
 
-Here are my: [CV]     [Research Statement]    [Teaching Statement]
+Here are my: [CV]("/CV.pdf"){: .btn .mr-4 }
+[Research Statement]("/research Statement Qihang Sun.pdf"){: .btn .mr-4 }
+[Teaching Statement]("/Qihang Sun teaching statement.pdf"){: .btn }
+
 
 email: qihangs2 at illinois dot edu
 
 ----
 
 [Scott Ahlgren]: https://scottahlgren.web.illinois.edu/
-[CV]: 
-[Research Statement]:
-[Teaching Statement]:
 
