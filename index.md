@@ -12,7 +12,7 @@ I completed my bachelor in Mathematics in 2019 at Xi'an Jiaotong University (XJT
 
 ----
 
-Here are my: [CV](https://github.com/qihangsun1998/qihangsun1998.github.io/blob/main/files/Qihang-Sun-CV.pdf){: .btn }  [Research Statement]{: .btn .mr-4 }  [Teaching Statement]{: .btn }
+Here are my: [CV]{: .btn .mr-4 }  [Research Statement]{: .btn .mr-4 }  [Teaching Statement]{: .btn }
 
 
 email: qihangs2 at illinois dot edu
