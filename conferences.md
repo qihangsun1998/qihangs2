@@ -1,5 +1,5 @@
----
-title: List of attended conferences
+# List of attended conferences
+
 layout: home
----
+
 
