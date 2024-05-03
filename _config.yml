@@ -7,3 +7,23 @@ url: https://qihangsun1998.github.io/qihangs2
 search_enabled: false
 
 nav_enabled: true
+
+---
+layout: default
+title: Research
+nav_order: 2
+---
+
+---
+layout: default
+title: Teaching
+nav_order: 3
+---
+
+
+---
+layout: default
+title: Personal
+nav_order: 4
+---
+
