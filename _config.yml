@@ -4,4 +4,6 @@ theme: just-the-docs
 
 url: https://qihangsun1998.github.io/qihangs2
 
+search_enabled: false
 
+nav_enabled: true
