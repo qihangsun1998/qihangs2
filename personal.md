@@ -1,5 +1,3 @@
----
-title: Personal
-layout: home
----
+# Personal
+
 
