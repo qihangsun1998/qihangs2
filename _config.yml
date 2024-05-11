@@ -10,6 +10,5 @@ nav_enabled: true
 
 navigation: 
  - {title: "Research", file: "/research.md"}
- - {title: "Teaching", file: "/teaching.md"}
  - {title: "Conferences", file: "/conferences.md"}
  - {title: "Personal", file: "/personal.md"}
