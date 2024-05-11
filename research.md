@@ -13,13 +13,13 @@ My research has focused on the analytic properties of arithmetic functions, appl
 
 [4] Exact formulae for ranks of partitions, <i>in preparation</i>. 
 
-[3] Uniform bounds for Kloosterman sums of half-integral weight, same-sign case, <i>submitted</i>. [arXiv] 
+[3] Uniform bounds for Kloosterman sums of half-integral weight, same-sign case, <i>submitted</i>. [arXiv](https://arxiv.org/abs/2309.05233) 
 
-[2] Uniform bounds for Kloosterman sums of half-integral weight with applications, <i>Forum Mathematicum</i>, 2024, ahead of print. [arXiv] [journal]
+[2] Uniform bounds for Kloosterman sums of half-integral weight with applications, <i>Forum Mathematicum</i>, 2024, ahead of print. [arXiv](https://arxiv.org/abs/2305.19651) [journal](https://doi.org/10.1515/forum-2023-0201)
 
-[1] Effective estimates for traces of singular moduli (with O. González),  <i>Research in Number Theory</i>, vol. 10, no. 29 (2024). [arXiv] [journal]
+[1] Effective estimates for traces of singular moduli (with O. González),  <i>Research in Number Theory</i>, vol. 10, no. 29 (2024). [arXiv](https://arxiv.org/abs/2305.19649) [journal](https://doi.org/10.1007/s40993-024-00517-6)
 
-
+----
 
 # Not for publication
 
@@ -28,6 +28,3 @@ My research has focused on the analytic properties of arithmetic functions, appl
 [1] Half-integral weight Kloosterman sums and integer partitions, <i>Ph.D. Thesis</i>, University of Illinois, Urbana-Champaign, 2024. [pdf] [IDEALS - UIUC access]
 
 
-----
-
-[arXiv] 
