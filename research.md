@@ -11,7 +11,7 @@ My research has focused on the analytic properties of arithmetic functions, appl
 
 [5] Vanishing properties of Kloosterman sums and Dyson's conjectures, *in preparation*. 
 
-[4] Exact formulae for ranks of partitions, *in preparation*. 
+[4] Exact formulae for ranks of partitions, *submitted*. [arXiv](https://arxiv.org/abs/2406.06294) 
 
 [3] Uniform bounds for Kloosterman sums of half-integral weight, same-sign case, *submitted*. [arXiv](https://arxiv.org/abs/2309.05233) 
 
@@ -23,8 +23,8 @@ My research has focused on the analytic properties of arithmetic functions, appl
 
 # Not for publication
 
-[2] Vanishing properties of Kloosterman sums and Dyson's conjectures, whole proof (This is the full version of [5] above, because the whole proof is long and tedious), *in preparation*. 
+[2] Vanishing properties of Kloosterman sums and Dyson's conjectures, whole proof (This is the full version of [5] above, because the whole proof is long and tedious). [GitHub repository](https://github.com/qihangsun1998/Vanishing_Kloosterman_Sums)
 
-[1] Half-integral weight Kloosterman sums and integer partitions, ***Ph.D. Thesis***, University of Illinois, Urbana-Champaign, 2024. [pdf] [IDEALS - UIUC access]
+[1] Half-integral weight Kloosterman sums and integer partitions, ***Ph.D. Thesis***, University of Illinois, Urbana-Champaign, 2024. [PDF](https://github.com/qihangsun1998/PhD_thesis/blob/540abb17593b482ff01d51008defec3353e992b0/thesis.pdf) [IDEALS - UIUC access]
 
 
